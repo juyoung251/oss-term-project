@@ -9,3 +9,6 @@ python process_image.py
 - output/resized.jpg
 
 
+
+
+
