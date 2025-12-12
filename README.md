@@ -8,3 +8,4 @@ python process_image.py
 - output/gray.jpg
 - output/resized.jpg
 
+
